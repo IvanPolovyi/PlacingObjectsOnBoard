@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5799b739d0be346905032b3e5038b7, type: 3}
+  m_Name: Roundy Tree
+  m_EditorClassIdentifier: 
+  itemType: 1
+  title: Roundy Tree
+  prefab: {fileID: 2222111361404534124, guid: 88f2fd29f58b9734683512546acec310, type: 3}
+  inventorySprite: {fileID: 21300000, guid: dfd88e76919d0b047ba7f0fed74809c2, type: 3}
+  sizeOnGrid: 1
+  description: 
