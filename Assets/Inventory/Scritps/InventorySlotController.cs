@@ -19,6 +19,7 @@ namespace Inventory.Scritps
         private void Start()
         {
             _titleDisplay = titleDisplay.GetComponent<TextMeshProUGUI>();
+            _imageDisplay = imageDisplay.GetComponent<Image>();
 
             SetDisplay();
         }
